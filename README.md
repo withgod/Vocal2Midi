@@ -5,6 +5,9 @@
 <p>
   <a href="https://github.com/Xiantaidu/Vocal2Midi"><img src="https://img.shields.io/badge/version-v2.0.0-blue.svg?style=flat-square" alt="Version"></a> <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12-3776AB.svg?style=flat-square&logo=python&logoColor=white" alt="Python"></a> <a href="#runtime-device-rules"><img src="https://img.shields.io/badge/platform-Windows-0078D6.svg?style=flat-square" alt="Platform"></a> <a href="#runtime-device-rules"><img src="https://img.shields.io/badge/acceleration-dml%20%7C%20cpu-success.svg?style=flat-square" alt="Acceleration"></a> <a href="#gui-workflow"><img src="https://img.shields.io/badge/UI-PySide6%20%7C%20Fluent%20Design-005FB8.svg?style=flat-square&logo=qt&logoColor=white" alt="UI"></a> <a href="LICENSE"><img src="https://img.shields.io/badge/license-Apache%202.0-yellow.svg?style=flat-square" alt="License"></a>
 </p>
+<p>
+  <a href="https://github.com/withgod/Vocal2Midi/actions/workflows/tests.yml"><img src="https://img.shields.io/github/actions/workflow/status/withgod/Vocal2Midi/tests.yml?branch=main&style=flat-square&label=tests" alt="Tests"></a>
+</p>
 
 Vocal2Midi is a desktop tool and inference pipeline for turning vocal audio into lyric-aligned MIDI, USTX, VSQX, and editing artifacts, driven by a Fluent GUI shell on Windows.
 
